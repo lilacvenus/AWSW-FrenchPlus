@@ -144,3 +144,7 @@ translate frenchtl eck_naomi_credits_best_96b771c1:
     # c "Yeah. Even going there early in the morning didn't help. Get this..."
     c ""
 
+translate frenchtl strings:
+
+    old "Meet with Naomi."
+    new "!!! Meet with Naomi."
