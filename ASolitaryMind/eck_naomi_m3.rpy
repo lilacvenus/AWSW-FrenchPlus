@@ -4,98 +4,99 @@
 translate frenchtl eck_naomi_m3_e626d85f:
 
     # Nm "Good day, [player_name]. Ready for the big adventure?"
-    Nm ""
+    Nm "Quoi de neuf [player_name]. Prêt pour la grande aventure ?"
 
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:152
 translate frenchtl eck_naomi_m3_6190f4db:
 
     # c "Hey."
-    c ""
+    c "Salut."
 
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:153
 translate frenchtl eck_naomi_m3_c905fb90:
 
     # c "Uh, what big adventure? I don't remember you mentioning anything about one."
-    c ""
+    c "Euh, quelle grande aventure ? Je ne me souviens pas une mention d'un."
 
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:154
 translate frenchtl eck_naomi_m3_e6db0df1:
 
     # Nm "This is my surprise."
-    Nm ""
+    Nm "C'est ma surprise."
 
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:155
 translate frenchtl eck_naomi_m3_a53f533b:
 
     # c "Alright, you have my attention."
-    c ""
+    c "Eh bien, vous avez mon attention."
 
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:156
 translate frenchtl eck_naomi_m3_82adc89b:
 
     # Nm normal "I was thinking how to make our meeting more interesting, and I got this one idea."
-    Nm normal ""
+    Nm normal "Je réfléchissais à comment faire notre rencontre plus intéressante et j'ai eu cette idée."
 
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:157
 translate frenchtl eck_naomi_m3_fc1e5c4e:
 
     # Nm shy "I hope you wouldn't mind, though."
-    Nm shy ""
+    Nm shy "J'espère que ça ne te dérangerait pas."
 
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:158
 translate frenchtl eck_naomi_m3_8c6e2874:
 
     # Nm normal "How about we go diving together? Of course, I'll get you all the necessary equipment and supplies."
-    Nm normal ""
+    Nm normal "Nous devrions aller plonger ensemble ? Bien sûr, je vous trouverai tout l'équipement nécessaire."
 
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:165
 translate frenchtl eck_naomi_m3_startchoice_7b0b27a5:
 
     # c "Can't miss the chance to see what your ocean is like."
-    c ""
+    c "Je ne manquerais pas l'occasion de voir à quoi ressemble votre océan."
 
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:171
 translate frenchtl eck_naomi_m3_startchoice_baef8143:
 
     # c "I never liked water, and I don't want to find out what's lurking in the depts of your world's oceans."
-    c ""
+    c "Je n'aime jamais l'eau et je ne veux pas trouver quoi se cache dans les profonds de tes océans."
 
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:173
 translate frenchtl eck_naomi_m3_startchoice_b3059297:
 
     # c "So I'm going to stick to the surface world."
-    c ""
+    c "Donc, Je vais rester au monde de la surface. "
 
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:174
 translate frenchtl eck_naomi_m3_startchoice_e7c675d8:
 
     # Nm "I see."
-    Nm ""
+    Nm "Je vois."
 
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:175
 translate frenchtl eck_naomi_m3_startchoice_003dedc4:
 
     # Nm "I guess there's nothing else I can offer to you, then."
-    Nm ""
+    Nm "Je suppose qu'il n'y a rien d'autre que je peux vous offrir."
 
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:176
 translate frenchtl eck_naomi_m3_startchoice_4fa16f0f:
 
     # c "Shame."
-    c ""
+    c "Dommage."
 
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:177
 translate frenchtl eck_naomi_m3_startchoice_0df4c1f7:
 
     # c "And I don't think that another evening of watching TV or sitting at the cafe is what I want, to be completely honest."
-    c ""
+    c "Et je ne pense pas qu'une autre soirée à regarder la télé ou à s'asseoir au café soit ce que je veux, pour être honnête."
 
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:178
 translate frenchtl eck_naomi_m3_startchoice_d5477166:
 
     # Nm blank "True. Same here. I would've loved to go swimming today."
-    Nm blank ""
+    Nm blank "C'est vrai, même ici. J'aurais adoré aller nager aujourd'hui."
 
+# TODO: Translate whatever this line is supposed to mean.
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:179
 translate frenchtl eck_naomi_m3_startchoice_5c30f307:
 
@@ -106,7 +107,7 @@ translate frenchtl eck_naomi_m3_startchoice_5c30f307:
 translate frenchtl eck_naomi_m3_startchoice_8a328451:
 
     # c "Just have fun without me. I'll occupy myself with reading or whatever."
-    c ""
+    c "Amusez-vous sans moi. Je m'occuperai de lecture ou quelque chose."
 
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:183
 translate frenchtl eck_naomi_m3_startchoice_77b0fb4a:
@@ -118,19 +119,19 @@ translate frenchtl eck_naomi_m3_startchoice_77b0fb4a:
 translate frenchtl eck_naomi_m3_startchoice_05d1699a:
 
     # Nm "Just... don't leave."
-    Nm ""
+    Nm "Juste... ne partez pas."
 
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:188
 translate frenchtl eck_naomi_m3_startchoice_fd4e901b:
 
     # Nm smile "Thank you."
-    Nm smile ""
+    Nm smile "Merci"
 
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:190
 translate frenchtl eck_naomi_m3_startchoice_33300eac:
 
     # m "She leaned in and suddenly yet gently rubbed the side of her head against mine."
-    m ""
+    m "Elle s'est penchée et soudainement, mais doucement, frotté le côté de sa tête contre le mien."
 
 # game/mods/eck_naomimod/eck_naomi_m3.rpy:192
 translate frenchtl eck_naomi_m3_startchoice_ab8017f6:
@@ -5715,4 +5716,3 @@ translate frenchtl strings:
 
     old "Exit."
     new "!!! Exit."
-
