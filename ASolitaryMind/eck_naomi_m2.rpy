@@ -118,7 +118,7 @@ translate frenchtl _call_skipcheck_eckn2_a1354495:
 translate frenchtl _call_skipcheck_eckn2_006b33d0:
 
     # Nm smile "One chair would suffice for you. Maybe one more would be handy if Sebastian suddenly decided to appear at my doorstep."
-    Nm smile "Une chaise suffirait pour toi. Peut être une de plus si Sebastien venait soudainement apparaître devant ma porte."
+    Nm smile "Une chaise suffirait pour toi. Peut être une de plus si Sébastien venait soudainement apparaître devant ma porte."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:132
 translate frenchtl _call_skipcheck_eckn2_70ed9a40:
@@ -136,7 +136,7 @@ translate frenchtl _call_skipcheck_eckn2_dc090c25:
 translate frenchtl _call_skipcheck_eckn2_05e20de6:
 
     # c "Especially picking them up and setting them right."
-    c "Surtout de les prendre et les placers correctement."
+    c "Surtout de les prendre et les placer correctement."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:139
 translate frenchtl _call_skipcheck_eckn2_955aac3f:
@@ -178,7 +178,7 @@ translate frenchtl _call_skipcheck_eckn2_6d912ce1:
 translate frenchtl _call_skipcheck_eckn2_63cab849:
 
     # Nm normal "Yeah, I already have the whole minor renovation planned out."
-    Nm normal "Ouais, j’ai déjà planifié toutes les petites rénovation."
+    Nm normal "Ouais, j’ai déjà planifié toutes les petites rénovations."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:155
 translate frenchtl _call_skipcheck_eckn2_b01a1381:
@@ -339,7 +339,7 @@ translate frenchtl _call_skipcheck_eckn2_dcc834cc:
 translate frenchtl _call_skipcheck_eckn2_a69f26d5:
 
     # Nm "But I have problems with just picking up or operating small things. You can tell which of these abilities are more important in one's everyday life."
-    Nm "Mais j’ai des soucis rien qu’en prenant ou utilisant des petits objets. Tu peut dire qu’elle habiletés est plus importante dans la vie de tous les jours. "
+    Nm "Mais j’ai des soucis rien qu’en prenant ou utilisant des petits objets. Tu peux dire qu’elle habiletés est plus importante dans la vie de tous les jours. "
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:200
 translate frenchtl _call_skipcheck_eckn2_15a92d6c:
@@ -369,13 +369,13 @@ translate frenchtl _call_skipcheck_eckn2_668ffe79:
 translate frenchtl _call_skipcheck_eckn2_beff2e7c:
 
     # c "Humans dreamed of flight since the dawn of our civilization for many centuries, but only recently, using extremely complex machines, we've managed to lift off the ground."
-    c "Les humains ont rêvé de voler depuis l’aube de l’humanité, mais ce n’est que récemment, en utilisant de très complexes machines, que nous sommes parvenu à quitter le sol."
+    c "Les humains ont rêvé de voler depuis l’aube de l’humanité, mais ce n’est que récemment, en utilisant de très complexes machines, que nous sommes parvenus à quitter le sol."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:212
 translate frenchtl _call_skipcheck_eckn2_dfb8f8ed:
 
     # c "Yet, those machines aren't nearly as agile and easily accessible as the wings you were born with."
-    c "Malgré tout, ces machines sont très loin d’être aussi agiles et accessible que les ailes avec lesquels tu es nés."
+    c "Malgré tout, ces machines sont très loin d’être aussi agiles et accessibles que les ailes avec lesquelles tu es nés."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:213
 translate frenchtl _call_skipcheck_eckn2_13a03021:
@@ -650,187 +650,192 @@ translate frenchtl _call_skipcheck_eckn2_0996474b:
 translate frenchtl _call_skipcheck_eckn2_1d6048d9:
 
     # Nm "Speaking of which, you wanted to hear how I became a police officer."
-    Nm ""
+    Nm "En parlant de ça, tu voulais savoir comment je suis devenu agent de police."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:284
 translate frenchtl _call_skipcheck_eckn2_a79ab735:
 
     # c "Yeah. Don't get me wrong, but you don't strike me as someone who'd be looking for this kind of work."
-    c ""
+    c "Ouais. Ne le prend pas mal, mais tu ne semble pas être le genre de personne qui cherche ce type de travail."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:285
 translate frenchtl _call_skipcheck_eckn2_2d767435:
 
     # Nm shy "No, no, it's fine."
-    Nm shy ""
+    Nm shy "Non, ça va aller."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:286
 translate frenchtl _call_skipcheck_eckn2_81135bd2:
 
     # Nm blank "To be honest, you're right. I guess I better start from the very beginning."
-    Nm blank ""
+    Nm blank "Pour être honnête, tu a raison. Je suppose que je devrais commencer par le début."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:287
 translate frenchtl _call_skipcheck_eckn2_bb9d2975:
 
     # Nm normal "After getting my degree and trying out a few places, I was still looking for a job that would actually feel substantial at its core – not just means to an end goal of earning money."
-    Nm normal ""
+    Nm normal "Après avoir obtenu mon diplôme et essayé quelques places, j’étais toujours à la recherche d’un emploie qui me ferait me sentir accomplie – pas juste un moyen de gagner de l’argent."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:288
 translate frenchtl _call_skipcheck_eckn2_11c8b92a:
 
     # Nm "Finances were obviously not the answer I've been looking for, and considering that keeping myself afloat wasn't an issue, I could afford to keep searching."
-    Nm ""
+    Nm "Les finances n’étais absolument pas ce que je chercher, et en considérant que je pouvais aisément rester dans le vert, continuer de chercher n’étais pas vraiment un soucis. "
+#J’ai pas trouvé d’autre expression pour décrire le fait que Naomi possède beaucoup d’argent de côté donc j’ai bricolé un peu la phrase, une suggestion reste la bienvenue.
+
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:289
 translate frenchtl _call_skipcheck_eckn2_88c9b70d:
 
     # Nm "The local orphanage was looking for some volunteers, but as it turns out, I was never good with kids. I allowed them too much, and keeping track of everyone at all times exhausted me."
-    Nm ""
+    Nm "L’orphelinat local chercha des volontaires, mais il se trouva que je n’avais jamais été doué avec les enfants. Je ne les encadrés pas suffisamment, et surveiller tout le monde été épuisant."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:290
 translate frenchtl _call_skipcheck_eckn2_22af526a:
 
     # Nm shy "One day I missed a kid climbing over the fence, and he managed to sneak away. I found and returned him before any staff could notice, but it was a clear sign I wasn't cut for this type of a job."
-    Nm shy ""
+    Nm shy "Un jour j’ai perdu de vue un enfant qui grimpé au dessus de la barrière, et qui réussit à s’échapper. Je l’ai trouvé et ramené avant que quiconque s’en aperçoive, mais c’était un signe évident que je n’étais pas faite pour ce genre de travail."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:291
 translate frenchtl _call_skipcheck_eckn2_1b44f6ae:
 
     # Nm normal "I considered trying myself at moving science forward, but with minds like Anna or even Damion already present, what could I hope to contribute?"
-    Nm normal ""
+    Nm normal "J’avais pensé essayer de travailler dans le domaine scientifique, mais avec des esprits comme Anna ou Damion déjà présent, que pourrais-je espérer de contribuer ?"
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:292
 translate frenchtl _call_skipcheck_eckn2_a1d66ed3:
 
     # Nm "It's a very sobering experience, after the high grades at university, to suddenly realize how mundane you really are, and that your skills and knowledge aren't anything special compared to the true talents."
-    Nm ""
+    Nm "C'est une expérience qui donne à réfléchir, après les bonnes notes à l'université, de réaliser soudainement à quel point vous êtes vraiment moyen et que vos compétences et connaissances n'ont rien de spécial par rapport aux vrais talents."
+#Ouais, j’ai google trad la première section “It's a very sobering experience” parce que ça j’ai pas la moindre idée de comment le tourner autrement.
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:293
 translate frenchtl _call_skipcheck_eckn2_0e895996:
 
     # c "Not everyone has to be the greatest in their work field."
-    c ""
+    c "Tous le monde n’a pas besoin d’être le meilleur en son domaine."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:294
 translate frenchtl _call_skipcheck_eckn2_567baf94:
 
     # Nm "I understand."
-    Nm ""
+    Nm "Je comprends."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:295
 translate frenchtl _call_skipcheck_eckn2_a4e0597b:
 
     # Nm "But I also wanted to at very least pull my own weight. However, I simply couldn't do that in science."
-    Nm ""
+    Nm "Mais je voulais au moins mettre ma propre contribution. Cependant, je ne pouvais tout simplement pas en science."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:300
 translate frenchtl _call_skipcheck_eckn2_d8ffb122:
 
     # Nm "Yeah."
-    Nm ""
+    Nm "Ouais."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:301
 translate frenchtl _call_skipcheck_eckn2_20c36812:
 
     # Nm smile "I'm glad you remember."
-    Nm smile ""
+    Nm smile "Je suis heureuse que tu t’en souvienne."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:305
 translate frenchtl _call_skipcheck_eckn2_d31e0f38:
 
     # Nm blank "There was no point. I knew my level, and it wasn't enough."
-    Nm blank ""
+    Nm blank "Il n’y avait aucun intérêt. Je connais mon niveau, et ce n’étais pas assez.”
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:310
 translate frenchtl _call_skipcheck_eckn2_9298f020:
 
     # Nm annoyed "What's that supposed to mean?"
-    Nm annoyed ""
+    Nm annoyed "Et c’est censé dire quoi ?"
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:311
 translate frenchtl _call_skipcheck_eckn2_14de96f8:
 
     # c "I was making a joke."
-    c ""
+    c "Je faisais une blague."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:312
 translate frenchtl _call_skipcheck_eckn2_483683b2:
 
     # Nm stern "You aren't doing a good job because I'm not laughing. Just so you know, none of this is fat."
-    Nm stern ""
+    Nm stern "Alors elle n’est pas très bonne parce que ça ne me fait pas rire. Pour ta gouverne, rien de tout ça n’est de la graisse."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:313
 translate frenchtl _call_skipcheck_eckn2_587eafdd:
 
     # m "Naomi pointed at herself and shifted her wings before folding them on her sides again."
-    m ""
+    m "Naomi se pointa tout en bougeant ces ailes avant de les rétracter et le remettre sur le côté."
+#Mouais … pas sûr de moi sur celle là
+
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:315
 translate frenchtl _call_skipcheck_eckn2_ff74425a:
 
     # Nm normal "For a while, I simply gave up. I was good at what I hated, and absolutely unfit to do what I dreamed of."
-    Nm normal ""
+    Nm normal "Pendant un temps, j’ai tout simplement abandonné. j’étais doué à ce que je détesté, et pas assez pour ce que je rêvé de faire."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:316
 translate frenchtl _call_skipcheck_eckn2_5220b2bf:
 
     # Nm "I spent my days by the seaside, looking at the horizon and wondering what lies beyond it. Our people had never tried to expand past our home continent, and even here we have many wild and frankly dangerous places untouched by civilization."
-    Nm ""
+    Nm "J’ai passé des jours sur le bord de mer, en regardant l’horizon et me demandant ce qu’il y avait au-delà. Notre peuple n’a jamais essayé de s'expandre outre notre continent natal, et même ici nous avons bien de zones sauvage et dangereuse épargné par la civilisation."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:317
 translate frenchtl _call_skipcheck_eckn2_0463a46c:
 
     # Nm "But it pales in comparison to the mysterious unknown lands. Nobody has any idea where they are or how they look."
-    Nm ""
+    Nm "Mais en comparaison de ces mystérieuses terres. Personne n'a la moindre idée de ce qu’elles sont ou à quoi elle peuvent bien ressembler."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:318
 translate frenchtl _call_skipcheck_eckn2_de7edd19:
 
     # c "Don't you have a space program?"
-    c ""
+    c "Vous n’avez pas de programme spatial?"
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:319
 translate frenchtl _call_skipcheck_eckn2_61a884f1:
 
     # Nm "Space program?"
-    Nm ""
+    Nm "Programme spatial?"
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:320
 translate frenchtl _call_skipcheck_eckn2_afefd977:
 
     # c "You know, launching things into your planet's orbit using large rockets or other aircraft. Your technology could probably make it happen."
-    c ""
+    c "Tu sais, lancé des trucs en orbite en utilisant de grosse fusée ou autre engin aéronautique. Votre technologie peut sûrement rendre ça possible."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:321
 translate frenchtl _call_skipcheck_eckn2_83de8210:
 
     # Nm shy "Never heard of such a concept."
-    Nm shy ""
+    Nm shy "Jamais entendu parler d’un tel concept."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:322
 translate frenchtl _call_skipcheck_eckn2_15689c8a:
 
     # Nm normal "It sounds amazingly interesting, though."
-    Nm normal ""
+    Nm normal "Malgré tout, ça sonne incroyablement intéressant."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:323
 translate frenchtl _call_skipcheck_eckn2_c843d557:
 
     # c "Back home, we used satellites, high-quality cameras and computers to draw a full, accurate map of our world."
-    c ""
+    c "Chez nous, nous utilisons des satellites, des caméras haute-qualité et des ordinateurs pour dessiner avec précision une carte de notre monde."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:324
 translate frenchtl _call_skipcheck_eckn2_ef8b78aa:
 
     # Nm "Here, the only widely used vehicles are boats and, sometimes, trains on railways for long-distance travels. There never was any real demand for other means of transportation, so they're barely developed."
-    Nm ""
+    Nm "Ici, les seuls véhicules largement utilisés sont les bateaux et, parfois, des trains sur rails pour des trajets longue distance. Il n’y a jamais eu de réel demande pour d'autres modes de transport, donc ils ne sont que très peu développés."
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:325
 translate frenchtl _call_skipcheck_eckn2_c97b3523:
 
     # Nm smile "This is why I was curious what other places are like, and I still am."
-    Nm smile ""
+    Nm smile "C’est pour ça que j’étais curieuse de savoir comment sont les autres endroit, et je le suis toujours"
 
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:326
 translate frenchtl _call_skipcheck_eckn2_12820e56:
