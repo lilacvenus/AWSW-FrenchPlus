@@ -2,133 +2,133 @@
 translate frenchtl eck_naomi_m1_598aa14d:
 
     # m "I passed the entry checkpoint and settled on the bench in front of a wide staircase. For a while, I watched members of police staff walking by, most of them going home after a long day of work. Naomi wasn't among them."
-    m ""
+    m "J'ai passé le contrôle d'entrée et je me suis installé sur le banc devant un grand escalier. Pendant un moment, j'ai regardé passer les policiers qui, pour la plupart, rentraient chez eux après une longue journée de travail. Naomi n'était pas parmi eux."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:63
 translate frenchtl eck_naomi_m1_010a4c75:
 
     # m "Soon, the flow of dragons ended, leaving me almost completely alone, save for the entrance guard stationed at the other end of a long corridor. My patience slowly started to wear thin."
-    m ""
+    m "Bientôt, le flot de dragons se termina, me laissant presque seul, à l'exception du garde de l'entrée posté à l'autre extrémité d'un long corridor. Ma patience commençait à s'épuiser."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:64
 translate frenchtl eck_naomi_m1_ef291fd6:
 
     # m "After several long minutes of boredom, I considered leaving, or at least trying to find Naomi's office."
-    m ""
+    m "Après plusieurs longues minutes d'ennui, j'ai envisagé de partir, ou du moins d'essayer de trouver le bureau de Naomi."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:68
 translate frenchtl eck_naomi_m1_1c45f9cb:
 
     # c "(She told me to wait here, so it's probably best not to barge in uninvited.)"
-    c ""
+    c "(Elle m'a dit d'attendre ici, il est donc préférable de ne pas faire intrusion sans y avoir été invité)."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:69
 translate frenchtl eck_naomi_m1_9fb5fc7e:
 
     # m "Eventually my patience was rewarded when I spotted her hastily making her way downstairs."
-    m ""
+    m "Finalement, ma patience a été récompensée lorsque je l'ai aperçue en train de descendre les escaliers en toute hâte."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:71
 translate frenchtl eck_naomi_m1_06dc8e9f:
 
     # Nm "Evening."
-    Nm ""
+    Nm "Bonsoir."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:72
 translate frenchtl eck_naomi_m1_6190f4db:
 
     # c "Hey."
-    c ""
+    c "Salut."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:73
 translate frenchtl eck_naomi_m1_f8c40ec7:
 
     # Nm "Thanks for waiting. I had some last-second changes to make before submitting the reports."
-    Nm ""
+    Nm "Merci d'avoir attendu. J'avais quelques modifications de dernière minute à faire avant de soumettre les rapports."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:78
 translate frenchtl eck_naomi_m1_9ee92ac5:
 
     # m "I made my way upstairs and wandered around the police department for a while, studying near-identical doors."
-    m ""
+    m "Je suis monté à l'étage et j'ai marché dans le département de la police pendant un moment, en étudiant des portes presque identiques."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:79
 translate frenchtl eck_naomi_m1_e5ca1218:
 
     # m "Finding nothing, I returned to the main lobby. Naomi was already waiting for me there, sitting on the same bench I had been using minutes before."
-    m ""
+    m "Ne trouvant rien, je suis retourné dans le hall principal. Naomi m'y attendait déjà, assise sur le banc que j'avais utilisé quelques minutes avant."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:81
 translate frenchtl eck_naomi_m1_776930a7:
 
     # Nm "Evening, [player_name]. Where have you been?"
-    Nm ""
+    Nm "Bonsoir, [player_name]. Où étiez-vous ?"
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:82
 translate frenchtl eck_naomi_m1_c2cb85f9:
 
     # c "Hey. I was looking for you, actually."
-    c ""
+    c "Salut. Je te cherchais, en fait."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:83
 translate frenchtl eck_naomi_m1_6c311e00:
 
     # Nm shy "Oh. Sorry I kept you waiting for so long. I had some last-second changes to make before submitting the reports."
-    Nm shy ""
+    Nm shy "Oh. Désolé de vous avoir fait attendre si longtemps. J'avais quelques modifications de dernière minute à faire avant de soumettre les rapports."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:91
 translate frenchtl eck_naomi_m1_d0ef423e:
 
     # c "(Enough is enough.)"
-    c ""
+    c "(Trop c'est trop)."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:92
 translate frenchtl eck_naomi_m1_9b9ad159:
 
     # m "I got up and left the building. If she couldn't or didn't want to go through with her own suggestion, neither did I."
-    m ""
+    m "Je me suis levé et j'ai quitté le bâtiment. Si elle ne pouvait ou ne voulait pas donner suite à sa propre suggestion, moi non plus."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:108
 translate frenchtl _call_skiptut_eckn11_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s ""
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène ?"
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:111
 translate frenchtl _call_skiptut_eckn11_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s ""
+    s "On dirait que vous avez déjà vu cela auparavant. Sauter à la fin de cette scène ?"
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:114
 translate frenchtl _call_skiptut_eckn11_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s ""
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et sauter directement à la fin de cette scène."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:122
 translate frenchtl _call_skiptut_eckn11_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:136
 translate frenchtl _call_skipcheck_eckn1_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:140
 translate frenchtl _call_skipcheck_eckn1_89e39e5b:
 
     # c "New details and evidence to take into account?"
-    c ""
+    c "Nouveaux détails et preuves à prendre en compte ?"
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:141
 translate frenchtl _call_skipcheck_eckn1_3dab2adb:
 
     # Nm "Not really. It's a bit of a long story, and I doubt you'd find it interesting. Let's say the real culprits were paperwork, new untested standards and a lack of proper organization from some people."
-    Nm ""
+    Nm "Pas vraiment. C'est une histoire un peu longue, et je doute que vous la trouviez intéressante. Disons que les vrais coupables sont la paperasserie, les standards non testés et le manque d'organisation de certaines personnes."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:142
 translate frenchtl _call_skipcheck_eckn1_881f3cf8:
