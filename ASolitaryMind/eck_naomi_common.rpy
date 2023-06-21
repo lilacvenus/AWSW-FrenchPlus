@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-05 19:12
-
-# game/mods/eck_naomimod/eck_naomi_common.rpy:646
+﻿# game/mods/eck_naomimod/eck_naomi_common.rpy:646
 translate frenchtl eck_naomi_credits_best_917b313e:
 
     # c "(That was one long day. Trying to sort out both citizenship and apartment paperwork in a single visit wasn't my best decision.)"
@@ -130,7 +128,7 @@ translate frenchtl eck_naomi_credits_best_bc47223c:
 translate frenchtl eck_naomi_credits_best_8c601a4e:
 
     # c "As busy as yours. The council sure love their paperwork."
-    c "Aussi occupé que le vôtre. Le Conseil adore la paperasserie."
+    c "Aussi occupé que le vôtre. Le conseil adore la paperasserie."
 
 # game/mods/eck_naomimod/eck_naomi_common.rpy:687
 translate frenchtl eck_naomi_credits_best_ceb828c2:
@@ -142,7 +140,7 @@ translate frenchtl eck_naomi_credits_best_ceb828c2:
 translate frenchtl eck_naomi_credits_best_96b771c1:
 
     # c "Yeah. Even going there early in the morning didn't help. Get this..."
-    c "Ouias. Même en y allant tôt le matin, ça n'a pas aidé. Ecoutez ça..."
+    c "Ouais. Même en y allant tôt le matin, ça n'a pas aidé. Ecoutez ça..."
 
 translate frenchtl strings:
 
