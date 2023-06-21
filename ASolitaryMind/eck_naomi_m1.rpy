@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-05 19:12
-
-# game/mods/eck_naomimod/eck_naomi_m1.rpy:62
+﻿# game/mods/eck_naomimod/eck_naomi_m1.rpy:62
 translate frenchtl eck_naomi_m1_598aa14d:
 
     # m "I passed the entry checkpoint and settled on the bench in front of a wide staircase. For a while, I watched members of police staff walking by, most of them going home after a long day of work. Naomi wasn't among them."

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-05 19:12
-
-# game/mods/eck_naomimod/eck_naomi_m5.rpy:46
+﻿# game/mods/eck_naomimod/eck_naomi_m5.rpy:46
 translate frenchtl eck_naomi_m5_f7ca0390:
 
     # c "Hey, Naomi."

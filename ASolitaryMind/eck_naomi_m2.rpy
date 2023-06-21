@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-07-05 19:12
-
 # game/mods/eck_naomimod/eck_naomi_m2.rpy:61
 translate frenchtl eck_naomi_m2_01feab0a:
 

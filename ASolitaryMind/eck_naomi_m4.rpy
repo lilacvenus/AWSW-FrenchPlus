@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-05 19:12
-
-# game/mods/eck_naomimod/eck_naomi_m4.rpy:38
+﻿# game/mods/eck_naomimod/eck_naomi_m4.rpy:38
 translate frenchtl eck_naomi_m4_4f6444a9:
 
     # m "Following Naomi's invitation, I made my way to the new town area."

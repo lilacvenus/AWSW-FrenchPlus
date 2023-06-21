@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-05 19:12
-
-# game/mods/eck_naomimod/eck_naomi_m3.rpy:151
+﻿# game/mods/eck_naomimod/eck_naomi_m3.rpy:151
 translate frenchtl eck_naomi_m3_e626d85f:
 
     # Nm "Good day, [player_name]. Ready for the big adventure?"
