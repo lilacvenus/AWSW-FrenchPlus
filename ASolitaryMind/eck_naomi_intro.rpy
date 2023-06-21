@@ -231,127 +231,127 @@ translate frenchtl eck_naomi_introduction_27057319:
 translate frenchtl eck_naomi_introduction_454ed8e3:
 
     # c "No big secrets here. I was delivering the PDAs your council had requested as part of the deal between our peoples."
-    c ""
+    c "Pas de grands secrets ici. Je livrais les PDA que votre conseil avait demandés dans le cadre de l'accord entre nos peuples."
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:285
 translate frenchtl eck_naomi_introduction_78747964:
 
     # Nm normal b "I see. Hopefully, this is only the beginning of our cooperation."
-    Nm normal b ""
+    Nm normal b "Je vois. J'espère que ce n'est que le début de notre coopération."
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:286
 translate frenchtl eck_naomi_introduction_5a93cc24:
 
     # c "Yeah. A lot of hard work ahead, but I'm up for the challenge."
-    c ""
+    c "Oui, c'est vrai. Beaucoup de travail en perspective, mais je suis prêt à relever le défi."
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:287
 translate frenchtl eck_naomi_introduction_d92e2ad1:
 
     # Nm "Looks like we both have our responsibilities to deal with. Speaking of which..."
-    Nm ""
+    Nm "Il semble que nous ayons tous deux des responsabilités à assumer. En parlant de cela..."
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:288
 translate frenchtl eck_naomi_introduction_eb76534a:
 
     # Nm shy b "I deeply apologize, but I must return to my duties. Anna is waiting with some data our department needs, and she won't be happy about me being late."
-    Nm shy b ""
+    Nm shy b "Je m'excuse profondément, mais je dois retourner à mes tâches. Anna m'attend avec des données dont notre département a besoin, et elle ne sera pas heureuse de mon retard."
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:289
 translate frenchtl eck_naomi_introduction_94a8b882:
 
     # c "Anna? I was talking to her just a minute ago. She seemed rather friendly."
-    c ""
+    c "Anna ? Je lui ai parlé il y a une minute. Elle avait l'air plutôt sympathique."
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:290
 translate frenchtl eck_naomi_introduction_84f13d99:
 
     # Nm blank b "Oh? She's... a little different most of the time."
-    Nm blank b ""
+    Nm blank b "Oh ? Elle est... un peu différente la plupart du temps"
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:291
 translate frenchtl eck_naomi_introduction_be8b7287:
 
     # c "How so?"
-    c ""
+    c "Comment ?"
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:292
 translate frenchtl eck_naomi_introduction_7077850d:
 
     # Nm "Um. I'd love to chat, but right now I have too many assignments on my hands."
-    Nm ""
+    Nm "Euh. J'aimerais beaucoup discuter avec vous, mais j'ai trop de travail pour l'instant."
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:293
 translate frenchtl eck_naomi_introduction_acb7e5d0:
 
     # c "I understand. Same for me."
-    c ""
+    c "Je comprends. C'est la même chose pour moi."
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:294
 translate frenchtl eck_naomi_introduction_6d4d658c:
 
     # Nm normal b "We could continue this conversation later, if you'd like."
-    Nm normal b ""
+    Nm normal b "Nous pourrons poursuivre cette conversation plus tard, si vous voulez."
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:295
 translate frenchtl eck_naomi_introduction_45f86ff9:
 
     # c "I'm not sure I'll have the time, but we could try."
-    c ""
+    c "Je ne suis pas sûr d'avoir le temps, mais nous pourrions essayer."
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:296
 translate frenchtl eck_naomi_introduction_4701817b:
 
     # Nm smile b "Here's my number, then. Give me a call when you get a free moment."
-    Nm smile b ""
+    Nm smile b "Voici mon numéro, en tout cas. Appelez-moi quand vous avez un moment de libre."
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:297
 translate frenchtl eck_naomi_introduction_86148265:
 
     # c "Alright."
-    c ""
+    c "D'accord."
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:298
 translate frenchtl eck_naomi_introduction_3a1c47de:
 
     # Nm "Take care."
-    Nm ""
+    Nm "Prens soins."
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:299
 translate frenchtl eck_naomi_introduction_be7f9017:
 
     # c "Bye."
-    c ""
+    c "Au revoir."
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:315
 translate frenchtl _call_skiptut_2eckex2_4d25d249:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the character selection?"
-    s ""
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Voulez-vous sauter directement à la sélection des personnages ?"
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:318
 translate frenchtl _call_skiptut_2eckex2_11989f6d:
 
     # s "It looks like you've seen this before. Skip to the character selection?"
-    s ""
+    s "On dirait que vous avez déjà vu cela auparavant. Sauter à la sélection des personnages ?"
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:321
 translate frenchtl _call_skiptut_2eckex2_e25f7eb3:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the character selection."
-    s ""
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et sauter directement à la sélection des personnages."
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:328
 translate frenchtl _call_skiptut_2eckex2_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/mods/eck_naomimod/eck_naomi_intro.rpy:343
 translate frenchtl _call_skipcheck_2eckex2_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 #No strings to translate
 
