@@ -134,25 +134,25 @@ translate frenchtl _call_skipcheck_eckn1_3dab2adb:
 translate frenchtl _call_skipcheck_eckn1_881f3cf8:
 
     # c "You're also working on the latest case, I assume."
-    c ""
+    c "Vous travaillez aussi sur la dernière affaire, je suppose."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:143
 translate frenchtl _call_skipcheck_eckn1_d7d1f0c9:
 
     # Nm confused "Yes. I'm part of Bryce's team. However, those documents were related to another incident we've solved recently, and the court needed them by tomorrow morning."
-    Nm confused ""
+    Nm confused "Oui, je fais partie de l'équipe de Bryce. Cependant, ces documents sont liés à un autre incident que nous avons résolu récemment, et le tribunal en a besoin pour demain matin."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:144
 translate frenchtl _call_skipcheck_eckn1_b9d2db21:
 
     # c "They seem to be in a huge rush."
-    c ""
+    c "Ils semblent très pressés."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:145
 translate frenchtl _call_skipcheck_eckn1_51a738b0:
 
     # Nm normal "That's understandable, really. We have a big holiday event coming up soon, and they want to finish the processing before that."
-    Nm normal ""
+    Nm normal "Cela est compréhensible. Nous organisons bientôt un grand événement pour les fêtes de fin d'année et ils veulent terminer le processus avant cela."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:146
 translate frenchtl _call_skipcheck_eckn1_c4601b52:
