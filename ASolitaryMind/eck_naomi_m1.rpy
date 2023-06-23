@@ -158,103 +158,103 @@ translate frenchtl _call_skipcheck_eckn1_51a738b0:
 translate frenchtl _call_skipcheck_eckn1_c4601b52:
 
     # Nm "Especially considering the suspect would have to remain in custody until the trial is over. But even in the worst case scenario, they aren't going to face more than a fine and about a two years' suspended sentence."
-    Nm ""
+    Nm "Surtout si l'on considère que le suspect devra rester en détention jusqu'à la fin du procès. Mais même dans le pire des cas, ils ne risquent pas plus qu'une amende et une peine d'environ deux ans avec sursis."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:147
 translate frenchtl _call_skipcheck_eckn1_aa478de9:
 
     # c "Quite lenient of the court."
-    c ""
+    c "Assez indulgent de la cour."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:148
 translate frenchtl _call_skipcheck_eckn1_07e62eb0:
 
     # Nm blank "The offender is a single mother of two, who already signed a confession. She didn't steal because of having a good life – and everybody understands that, including the shop owner."
-    Nm blank ""
+    Nm blank "La contrevenante est une mère célibataire de deux enfants, qui a déjà signé une confession. Elle n'a pas volé parce qu'elle avait une bonne vie - et tout le monde le comprend, même le propriétaire du magasin."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:149
 translate frenchtl _call_skipcheck_eckn1_55b0cc5b:
 
     # Nm "They made peace, and he agreed to cover the fines and other legal expenses for her. But laws are laws, and a trial must be completed."
-    Nm ""
+    Nm "Ils ont fait la paix et il a accepté de couvrir les amendes et autres frais de justice pour elle. Mais les lois sont les lois, et un procès doit être fait."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:150
 translate frenchtl _call_skipcheck_eckn1_dc07e810:
 
     # Nm normal "The least we can do is make sure she gets to spend holidays with her kids instead of the detention facility."
-    Nm normal ""
+    Nm normal "Le moins que nous puissions faire est de nous assurer qu'elle peut passer les vacances avec ses enfants au lieu de les passer dans un centre de détention."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:151
 translate frenchtl _call_skipcheck_eckn1_82a03fc3:
 
     # c "So you had to gather and submit the documents as fast as possible. Sounds like you have a lot of busywork. For a good cause, but still."
-    c ""
+    c "Vous avez donc dû rassembler et soumettre les documents le plus rapidement possible. On dirait que vous avez beaucoup de travail. Pour une bonne cause, mais tout de même."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:152
 translate frenchtl _call_skipcheck_eckn1_396ce570:
 
     # Nm stern "Most of my occupation here is busywork, unless I'm assigned to be the flyer on duty on some rare occasions, or if we actually get a puzzling case to solve."
-    Nm stern ""
+    Nm stern "La plupart de mon travail consiste des tâches inutiles, à moins que l'on ne me confie le rôle de l'aviateur de service en quelques rares occasions, ou que l'on ne nous confie un cas complexe à résoudre."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:153
 translate frenchtl _call_skipcheck_eckn1_65306e51:
 
     # Nm blank "Oh well. Don't let me bring down your mood with the boring or sad aspects of my work."
-    Nm blank ""
+    Nm blank "Tant pis. Ne me laissez pas vous mettre de mauvaise humeur avec les aspects ennuyeux ou tristes de mon travail."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:154
 translate frenchtl _call_skipcheck_eckn1_b5e43551:
 
     # Nm "Anything you'd like to do?"
-    Nm ""
+    Nm "Quelque chose que vous aimeriez faire ?"
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:158
 translate frenchtl _call_skipcheck_eckn1_baae0c0c:
 
     # Nm shy "So did I."
-    Nm shy ""
+    Nm shy "Moi aussi."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:159
 translate frenchtl _call_skipcheck_eckn1_37fab9e8:
 
     # Nm "I wanted to make up something while at work, but this court request came up, and I completely forgot."
-    Nm ""
+    Nm "Je voulais préparer quelque chose pendant que j'étais au travail, mais cette demande de la cour est arrivée et j'ai complètement oublié."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:160
 translate frenchtl _call_skipcheck_eckn1_7e6cca72:
 
     # c "It doesn't have to be anything complicated. We can just pay a visit to the local cafe or have a walk."
-    c ""
+    c "Il n'est pas nécessaire de faire quelque chose de compliqué. Il suffit d'aller au café du coin ou de se promener."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:161
 translate frenchtl _call_skipcheck_eckn1_f7134117:
 
     # Nm normal "Cafe sounds good. I could use a snack."
-    Nm normal ""
+    Nm normal "Le café a l'air bien. J'ai besoin d'un collation."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:165
 translate frenchtl _call_skipcheck_eckn1_4e7a2935:
 
     # Nm normal "Yeah. I'm a little too tired for anything more engaging, and I'm afraid I'd fall asleep if we went to something like the cinema."
-    Nm normal ""
+    Nm normal "Ouais. Je suis un peu trop fatigué pour quelque chose de plus engageant, et j'ai peur de m'endormir si nous allions au cinéma."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:166
 translate frenchtl _call_skipcheck_eckn1_553ccb19:
 
     # Nm "I know a nice cafe nearby. Decent food and atmosphere, and the prices aren't too bad."
-    Nm ""
+    Nm "Je connais un bon café à proximité. La nourriture et l'ambiance sont bonnes, et les prix ne sont pas trop chers."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:168
 translate frenchtl _call_skipcheck_eckn1_d7fd2de7:
 
     # c "Let's go there, then."
-    c ""
+    c "Allons-y."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:172
 translate frenchtl _call_skipcheck_eckn1_c42566b3:
 
     # Nm shy "I had a very busy day. Sorry."
-    Nm shy ""
+    Nm shy "J'ai eu une journée très occupée. Désolé."
 
 # game/mods/eck_naomimod/eck_naomi_m1.rpy:174
 translate frenchtl _call_skipcheck_eckn1_27fd6ae8:
